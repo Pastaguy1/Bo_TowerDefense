@@ -11,12 +11,12 @@
 
 ### deze game is leuk omdat je eekhoorns moet tegenhouden met hert slopen van de torens. het is uitdagend.
 
-
+## toren namen en eigenschappen
 
 ### toren 1: alphatoren, schiet sloom, 30 damage, vuurbal
 ### toren 2: duncan, schiet snel, 50 damage, cooldown van 7 sec
-
-
+##
+## vijanden
 ### vijand 1: eekhoorn mid, slow, 100hp, arrow schieten.
 ### vijand 2: eekhoorn deluxe, fast, 150hp, arrows schieten
 
@@ -26,7 +26,7 @@
 ### er komen iedere wave meer vijanden en sterkere vijanden en en torens worden duurder.
 
 
-
+## probleemn en oplossingen
 ### probleem veel enemys spawnen
 ### impact enemys kunnen makkelijker doorlopen
 ### oplossing meer torens plaatsen
@@ -39,6 +39,8 @@
 ### impact ze komen sneller bij t einde
 ### oplossing torens meer taktisch plaatsen
 
+
+# sprint planning
 ### Sprint 1 mechanics: enemys spawnen en map
 ### Sprint 2 mechanics: torens plaatsen
 ### Sprint 3 mechanics: start scherm 
