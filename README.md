@@ -9,7 +9,7 @@
 ##  <img width="1536" height="1024" alt="ChatGPT Image 19 sep 2025, 10_06_16" src="https://github.com/user-attachments/assets/59b33d97-6787-4d76-9682-807d2190ea16" />
 
 
-### deze game is leuk omdat je eekhoorns moet tegenhouden met hert slopen van de torens. het is uitdagend.
+### deze game is leuk omdat je eekhoorns moet tegenhouden met het slopen van de torens. het is uitdagend.
 
 ## toren namen en eigenschappen
 
@@ -26,7 +26,7 @@
 ### er komen iedere wave meer vijanden en sterkere vijanden en en torens worden duurder.
 
 
-## probleemn en oplossingen
+## probleem en oplossingen
 ### probleem veel enemys spawnen
 ### impact enemys kunnen makkelijker doorlopen
 ### oplossing meer torens plaatsen
